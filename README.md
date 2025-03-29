@@ -28,7 +28,6 @@ Here are some of the key projects featured on my portfolio:
 
 Feel free to reach out to me for collaborations or opportunities:
 - GitHub: https://github.com/Ijeoma2025
-
 ## Website
 
 This repository is published as a GitHub Pages website. You can view the live site at: [paste link]
