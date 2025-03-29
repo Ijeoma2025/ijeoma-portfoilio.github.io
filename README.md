@@ -30,7 +30,7 @@ Feel free to reach out to me for collaborations or opportunities:
 - GitHub: https://github.com/Ijeoma2025
 ## Website
 
-This repository is published as a GitHub Pages website. You can view the live site at: https://ijeoma2025.github.io/portfoilio.github.io/
+This repository is published as a GitHub Pages website. You can view the live site at: https://ijeoma2025.github.io/ijeoma-portfoilio.github.io/
 
 ## Technologies Used
 
