@@ -1,4 +1,4 @@
-# [paste name here] - Python Programmer and Data Analyst Portfolio
+# Ijeoma Ikeji - Data Analyst Portfolio
 
 Welcome to my data analyst and machine learning portfolio! This repository contains the source code for my personal website, showcasing my skills, projects, and professional information.
 
@@ -10,9 +10,9 @@ Experienced data analyst and machine learning engineer with expertise in Python,
 
 Here are some of the key projects featured on my portfolio:
 
-1. **Resume and Cover Letter Generator**: A Streamlit app that generates resume and cover letter using AI. 
+1. **Loan Prediction Application**: A Streamlit app that predicts if a user should be given a loan. 
 
-2. **Password Generator App**: A Streamlit app that generates random password for the user depending on their preference for letters, numbers or symbols using Python. 
+  
   
 
 ## Skills
@@ -20,14 +20,14 @@ Here are some of the key projects featured on my portfolio:
 - Data Analysis
 - Python
 - SQL
-- Machine Learning
-- Generative AI
+- Tableau
+- Excel
 
 
 ## Contact
 
 Feel free to reach out to me for collaborations or opportunities:
-- GitHub: [paste link]
+- GitHub: https://github.com/Ijeoma2025
 
 ## Website
 
